@@ -1,0 +1,189 @@
+.body { 
+	padding-top: 80px;
+	background: #F6F8F9;
+}
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding-top: 18px;
+	padding-bottom: 17px;
+	display: inline-block;
+	width: 100%;
+	background: #F6F8F9;
+	z-index: 100;
+}
+.active {
+	color: #343638;
+}
+.navigation{
+	display: inline-block;
+}
+.ul-nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-list {
+	display: inline-block;
+	padding-right: 22px;
+	font-family: 'Allerta Stencil';
+	font-size: 11px;
+	font-weight: 900;
+	color: #707070;
+}
+.logo1 {
+	vertical-align: middle;
+	width: 38px;
+	margin-right: 92px;
+	padding-left: 20px;
+}
+.nav-image {
+	vertical-align: middle;
+}
+.section1 {
+	width: 1160px;
+	margin: 0 auto;
+
+}
+.headline1 { 
+	font-family: 'Allerta Stencil';
+	font-size: 24px;
+	font-weight: 900;
+	color: #202124;
+	margin-bottom: 40px;
+ }
+
+ .div1 {
+ 	width: 360px;
+ 	background: #FFFFFF;
+ 	display: inline-block;
+ }
+ .image {
+ 	position: relative;
+ 	width: 360px;
+ 	height: 180px;
+  }
+
+ .reltext {
+ 	position: absolute;
+ 	top: 28px;
+ 	left: 40px;
+ 	font-family: 'Allerta Stencil';
+ 	font-weight: 900;
+ 	font-size: 16px;
+ 	color: #FFFFFF;
+
+ }
+
+ .class2 {
+ 	margin-left: 40px;
+ 	margin-right: 40px;
+ 	
+ }
+ .text1 {
+ 	width: 280px;
+ 	font-family: 'Acumin Pro';
+ 	font-weight: normal;
+ 	font-size: 13px;
+ 	color: #A6ADB4;
+ 	margin: 66px auto 10px;
+ }
+ .timeimage {
+ 	width: 43px;
+ 	margin-left: 40px;
+ 	padding-bottom: 40px ;
+ }
+
+ /* section 2 */
+
+.section2 {
+	width: 1160px;
+	margin: 0 auto;
+}
+
+ .headline2 {
+ 	font-family: 'Allerta Stencil';
+	font-size: 24px;
+	font-weight: 900;
+	color: #202124;
+	padding-top: 69px;
+	padding-bottom: 29px;
+ }
+
+.div2 {
+	display: inline-block;
+	padding-right: 40px;
+}
+ .image1 {
+ 	width: 760px;
+ 	position: relative;
+ 	margin-bottom: 40px;
+  }
+
+ .image5 {
+ 	width: 760px;
+ 	margin-bottom: 37px;
+ }
+ .reltext2 {
+ 	position: absolute;
+    top: 50%;
+ 	width: 100%;
+ 	text-align: center;
+ 	font-family: 'Allerta Stencil';
+ 	font-weight: 900;
+ 	font-size: 16px;
+ 	color: #FFFFFF;
+ }
+ .images {
+ 	display: inline-block;
+ 	vertical-align: top;
+ }
+ .image7 {
+ 	padding: 102px 0;
+ }
+
+/*footer*/
+
+.footer {
+	width: 100%;
+	height: 200px;
+	background: #A6ADB4;
+}
+.div-footer {
+	display: inline-block;
+	padding-top: 56px;
+	padding-left: 142px;
+}
+.logo2 {
+	vertical-align: top;
+}
+.ul-footer {
+	display: inline-block;
+	padding-left: 89px;
+
+}
+
+.atext {
+	margin-bottom: 8px;
+	font-family: 'Allerta Stencil';
+	font-size: 13px;
+	font-weight: 900;
+	color: #CBD0D3;
+}
+
+.footertext {
+	display: inline-block;
+    font-family: 'Allerta Stencil';
+    font-size: 11px;
+    font-weight: normal;
+    color: #CBD0D3;
+    padding-top: 62px;
+    padding-left: 104px;
+}
+
+.socmedia {
+	width: 160px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 162px;
+}
